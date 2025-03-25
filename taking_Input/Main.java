@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner; // class for scanner
 public class Main
 {
 	public static void main(String[] args)
@@ -15,6 +15,9 @@ public class Main
 		System.out.println(age);
 		System.out.println("Your weight is: ");
 		System.out.println(weight);
+
+		// Add this line to consume the leftover newline character
+        sc.nextLine();  // This will consume the newline character
 		
 		// string input word
 		/*

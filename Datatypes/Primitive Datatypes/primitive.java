@@ -2,6 +2,8 @@ public class primitive
 {
 	public static void main(String[] args)
 	{
+		// NOTE: Need to add F after float type value and L after long type value
+		
 		byte age = 20; // range: -128 to 127
 		System.out.println(age);
 		

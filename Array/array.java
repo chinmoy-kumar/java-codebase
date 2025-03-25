@@ -4,6 +4,8 @@ public class array
 {
 	public static void main(String[] args)
 	{
+		// 1D Array
+		
 		// if array elements are known
 		int[] marks2 = {77, 95, 81};
 		
